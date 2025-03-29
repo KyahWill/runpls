@@ -23,6 +23,8 @@ The process is simple:
     - You can make commands that run globally
 2. Custom runpls.yaml file names
     - Hopefully you can simply use other file names such as main.yaml,commands.yaml, or my favorite runplsplspls.yaml if you really need to make it work.
+3. TOML integration
+    - Just saw toml now and it might be based I'm not so sure though.
 
 ## How to Contribute
 For real though just send me a message to my [Linkedin](https://www.linkedin.com/in/will-vincent-parrone-8763311ba/?originalSubdomain=ph) or send me an [email](mailto:wvparrone@gmail.com).
