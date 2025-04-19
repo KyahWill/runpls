@@ -1,0 +1,4 @@
+commands:
+  update_server:
+    - echo "Hello World"
+
